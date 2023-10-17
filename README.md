@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zurab-kusrashvili-9602791b5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zkusrashvili@gmail.com)
 
-I'm a passionate Full-Stack Developer, Lead Front-End Game Developer at [Lambda Gaming](https://lambdagaming.io/), and Lecturer at [IT Academy Step Georgia](https://step.georgia/). My diverse roles allow me to create engaging gambling games, mentor students, build comprehensive web solutions, and create freelance full-stack web applications.
+I'm a passionate Full-Stack Developer, Lead Front-End Game Developer at [Lambda Gaming](https://lambdagaming.io/), and Lecturer at [IT Academy Step Georgia](https://ge.itstep.org/). My diverse roles allow me to create engaging gambling games, mentor students, build comprehensive web solutions, and create freelance full-stack web applications.
 
 ## 🚀 Skills
 
