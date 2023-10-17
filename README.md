@@ -29,5 +29,5 @@ I'm open to collaboration opportunities within the gaming industry, web developm
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zurakusrashvili&show_icons=true&theme=dark)
 
