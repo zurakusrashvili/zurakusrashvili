@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer, Lead Front-End Game Developer at [Lambda 
 
 ## 🚀 Skills
 
-- **Front-End Development**: HTML5, CSS3, JavaScript, TypeScript
+- **Front-End Development**: HTML5, CSS3, JavaScript, TypeScript, Angular, VueJS
 - **Back-End Development**: Node.js, .NET
 - **Databases**: Microsoft SQL Server (MSSQL), PostgreSQL
 - **Programming Languages**: C#, TypeScript/Javascript
